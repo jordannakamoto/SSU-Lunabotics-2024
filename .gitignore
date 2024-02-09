@@ -1,0 +1,76 @@
+# Operating system files #
+######################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and IDE folders #
+######################
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# Build output #
+######################
+/bin/
+/obj/
+/build/
+/target/
+
+# Packages #
+######################
+# It's often recommended to ignore the package folders as they can be restored
+# using package management tools like npm, pip, etc.
+node_modules/
+jspm_packages/
+bower_components/
+venv/
+ENV/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories #
+######################
+# Comment this section if you are tracking dependencies.
+node_modules/
+jspm_packages/
+
+# Miscellaneous #
+######################
+*.class
+*.sln
+*.user
+*.userprefs
+*.pid
+*.seed
+*.db
+*.db-journal
+*.log
+*.tmp
+*.tmp_proj
+*.bak
+*.cache
+*.rdf
+*.suo
+*.ntvs*
+*.njsproj
+*.sdf
+*.mdf
+*.ldf
+*.DS_Store
+*.idea
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
